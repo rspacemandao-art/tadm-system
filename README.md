@@ -1,19 +1,24 @@
 # TADM System
 **Tactile-Auditory Descriptive Mapping**
 
-A cognitive translation system converting visually-dependent language into accessible multi-sensory experiences while preserving semantic and emotional meaning.
-
+TADM ingests literary and informational text and translates visually dependent language into non-visual, sensory-agnostic descriptive text.
 ---
 
 ## Overview
 
-TADM addresses a critical gap in accessibility technology by translating visual content for blind and visually impaired users while maintaining the full emotional, narrative, and contextual richness of the original material.
+TADM is an open translation protocol focused on removing visually dependent assumtpions from written language at the semantic level. Rather than adapting visual content into alternative sensory formats, TADM restructures text itself so that meaning remains intact without requiring visual reference.
 
-Unlike existing assistive technologies that mechanically convert text to speech or braille, TADM uses the Visual Word Scaffold (VWS) algorithm to perform cognitive translation—preserving meaning across sensory modalities through spatial audio, haptic feedback, and thermal mapping.
+The protocol operates on literary and informational text, identifying language that relies on visual cues,spatial metaphors, layout assumptions, or implied sight-based context.
+
+These elements are translated into non-visual, sensory-agnostic descriptive text that preserves intent, structure, and narrative continuity.
+
+TADM outputs plain text designed to be interpretable across multiple reading modalities, including screen readers, refreshable braille displays (RBDs), and standard text interfaces. The project is currently in active research and validation, with emphasis on community-reviewed accuracy and contextual fidelity. 
 
 ## Core Innovation
 
-The VWS algorithm identifies visually-dependent language in text and translates it into structured spatial-emotional descriptors. This preserves not just information, but the complete semantic experience—emotion, atmosphere, narrative structure, and cultural context.
+TADM identifies visually dependent language patterns in text and translates them into descriptive, non-visual expressions that preserve semantic meaning, narrative flow, and contextual nuance.
+
+This approach prioritizes interpretability over sensory simulation, ensuring that translated text remains usable across diverse reading modalities. 
 
 ## Current Status
 
