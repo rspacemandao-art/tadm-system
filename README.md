@@ -1,4 +1,6 @@
-​Overview
+# Transmodal Algorithmic Data Mapping: A deterministic, sovereign infrastructure protocol for sensory-agnostic information architecture.
+
+## ​Overview
 
 ​TADM functions as a sovereign data-mapping infrastructure. It identifies and restructures language predicated on visual-spatial assumptions, ensuring that information remains semantically complete across all modalities—including high-fidelity text-to-haptic, text-to-auditory, and standard data-processing environments.
 
