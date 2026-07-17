@@ -26,6 +26,8 @@ Operational Focus: Deployment of sovereign, "Black Box" infrastructure for enter
 
 ​Protocol Licensing: Providing an immutable standard for sensory-accurate communication, verified through institutional-grade audit processes.
 
+---
+
 Organization: A Group B Group Holdings LLC (ABGB)
 
 Principal Investigator: Matthew Biedka
